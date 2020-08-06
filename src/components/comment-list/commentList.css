@@ -1,0 +1,32 @@
+.reply {
+  margin-top: 0px;
+}
+.list-group-item{
+  background-color: pink;
+}
+
+.shanxian{animation: shanxian-item  2s ease-in forwards ;}
+
+@keyframes shanxian-item {
+  0%{
+    opacity: 1;
+    color: greenyellow;
+  }
+  65%{
+    opacity: 0;
+    color: fuchsia;
+  }
+
+  85% {
+    opacity: 0;
+    color: cyan;
+  }
+  100%{
+    opacity: 0;
+    color: mediumvioletred;
+  }
+
+}
+
+
+
