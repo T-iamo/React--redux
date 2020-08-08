@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ES6demo/.idea/ES6demo.iml" filepath="$PROJECT_DIR$/../ES6demo/.idea/ES6demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Es6/.idea/Es6.iml" filepath="$PROJECT_DIR$/../Es6/.idea/Es6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../老陈/lao/.idea/lao.iml" filepath="$PROJECT_DIR$/../老陈/lao/.idea/lao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../bianchengchengxu/node/my-app/.idea/my-app.iml" filepath="$PROJECT_DIR$/../../bianchengchengxu/node/my-app/.idea/my-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../fuxi/.idea/once.iml" filepath="$PROJECT_DIR$/../../fuxi/.idea/once.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/qwe.iml" filepath="$PROJECT_DIR$/.idea/qwe.iml" />
     </modules>
   </component>

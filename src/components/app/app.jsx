@@ -1,8 +1,11 @@
 import React,{ Component } from "react";
 import CommentAdd from "../comment-add/comment-add";
 import CommentList from "../comment-list/comment-list";
+
 import Api from "../../API/Api";
+import Apps from "../../Sou/app";
 import './app.css'
+
 export default class App extends Component{
     //初始化状态
     constructor(props) {
@@ -33,6 +36,7 @@ export default class App extends Component{
         const {comments} = this.state
         return (
                 <div className="solo">
+                    {<Apps />}
                     <header className="site-header jumbotron">
                         <div className="containers">
                             <div className="row">
@@ -91,7 +95,10 @@ export default class App extends Component{
                         </div>
                         */}
                     </div>
+
                     {<Api />}
+
+
                 </div>
         )
     }

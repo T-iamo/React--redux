@@ -8,5 +8,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="once" />
+    <orderEntry type="module" module-name="my-app" />
+    <orderEntry type="module" module-name="Es6" />
+    <orderEntry type="module" module-name="ES6demo" />
+    <orderEntry type="module" module-name="lao" />
   </component>
 </module>
